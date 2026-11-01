@@ -66,3 +66,31 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio cache
+.vs/
+**/.vs/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+
+# Build directories
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# Compiled files
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.ipch
+*.idb
+
+# Build artifacts
+*.tlog/
+*.recipe
